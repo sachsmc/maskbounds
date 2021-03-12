@@ -1,0 +1,1 @@
+This repository contains the calculations and details of the bounds for the analysis in an upcoming paper: "On the use of nonparametric bounds for causal effects in null randomized trials", by Erin E Gabriel (@eegabriel) and Michael C Sachs (@sachsmc). Browse the source code here or view the results at https://sachsmc.github.io/maskbounds. 
